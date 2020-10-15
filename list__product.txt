@@ -1,0 +1,12 @@
+
+                                        <div class="cart__list"><span class="cart_ttl" style="display: none;">У Вас нет покупок!</span><div class="cart__item"><div class="cart__img"><a href="#"><img src="img/rslider/cart1-3.jpg" alt=""></a></div><div class="cart__text"><a href="#"><h4>Animal Print Sweat-shirt</h4></a><p><span>$36.00</span> <del>$42.00</del></p><a class="delete" href="#"><i class="far fa-trash-alt"></i></a></div></div><div class="cart__item"><div class="cart__img"><a href="#"><img src="img/rslider/cart1-2.jpg" alt=""></a></div><div class="cart__text"><a href="#"><h4>Knit Cardigan</h4></a><p><span>$36.00</span></p><a class="delete" href="#"><i class="far fa-trash-alt"></i></a></div></div></div>
+                                        <div class="checkout">
+                                            <div class="total">
+                                                <p>Total</p>
+                                                <span class="outcome">$36</span>
+                                            </div>
+                                            <div class="check">
+                                                <button>check out</button>
+                                            </div>
+                                        </div>
+                                    
